@@ -9,10 +9,6 @@
 
 - 🤝 I’m looking for help with **projects**
 
-- 📝 I regularly write articles on [https://kulugbeklife.blogspot.com/](https://kulugbeklife.blogspot.com/)
-
-- 💬 Ask me about **html & css, js (react js)**
-
 - 📫 How to reach me **ukamolxodjayev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
